@@ -1,7 +1,7 @@
-# Upload Service Template
+# Upload Service
 
-This repository aims to provide a production-ready template for uploading files in various contexts. Whether you're building a web application, mobile app, or any other software that requires file upload functionality, this template can serve as a solid foundation. It includes all the necessary components and configurations to enable seamless file uploading in your projects.
+This repository was created with the purpose of conducting a proof of concept (PoC) for an upload service using Go as the base language and without the dependency of large frameworks. Additionally, the project structure should be flexible enough to accommodate the progression of business logic and also serve as a foundation for other HTTP services. Lastly, it should demonstrate how to achieve better performance in file uploads by structuring the code in a concurrent manner (by dividing the upload of data and metadata into different storages).
 
-> [!WARNING]
-> Project is not yet production-ready. Current tag is `v0.1.1`.<br />
-> More into at [tags tab](https://github.com/jkitajima/upload-service/tags).
+> [!NOTE]
+> The project structure was approved and this template served as the foundation for a complete upload service for the platform in question. The final repository code is located in a closed repository within the Kours platform organization.<br /><br />
+> More into at [Kours](https://github.com/KoursBr).

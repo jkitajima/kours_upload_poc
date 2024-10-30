@@ -4,4 +4,4 @@ This repository was created with the purpose of conducting a proof of concept (P
 
 > [!NOTE]
 > The project structure was approved and this template served as the foundation for a complete upload service for the platform in question. The final repository code is located in a closed repository within the Kours platform organization.<br /><br />
-> More into at [Kours](https://github.com/KoursBr).
+> More info at [Kours](https://github.com/KoursBr).
